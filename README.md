@@ -24,4 +24,4 @@ I'm passionate about computer science with a background in construction. I'm cur
 - [LinkedIn] (https://www.linkedin.com/in/nsanzumuhire-fid%C3%A8le-b23aa9325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🎨 Fun Facts
-- I'm from a rural area in Rwanda, and I love volunteering and helping others!
+- I'm from Rwanda, and I love volunteering and helping others!
