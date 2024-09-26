@@ -12,7 +12,7 @@ I'm passionate about computer science with a background in construction. I'm cur
 - Researching AI applications in civil engineering.
 
 ### 🛠️ My Toolbox
-- Languages: HTML, CSS, Python, java
+- Languages: HTML, CSS, Python, JavaScript, Java 
 - Tools: Git, Linux, VS Code
 
 ### 🎯 My Goals
