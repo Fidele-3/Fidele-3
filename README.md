@@ -1,5 +1,5 @@
 ### Hello, I'm Fidèle!
-I'm a passionate cybersecurity and software engineer with hands-on experience in security monitoring, threat intelligence, web development, and system automation. My background in construction technology gives me a unique perspective on integrating AI, IoT, and cybersecurity into critical infrastructure and modern software solutions.
+I'm a passionate cybersecurity and software engineer with hands-on experience in security monitoring, threat intelligence, web development, and system automation. My background in construction technology helps me understanding structural engineering and architecture and my hands on experience in Computer science, IoT and SOD gives me a unique perspective on integrating AI, IoT, and cybersecurity into critical infrastructure and modern software solutions.
 
 ### 🌱 What I'm Learning
 Cybersecurity & SOC Operations (SIEM, Threat Intelligence, Firewall Security)
