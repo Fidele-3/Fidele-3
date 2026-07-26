@@ -1,38 +1,41 @@
-### Hello, I'm Fidèle!
-I'm a passionate cybersecurity and software engineer with hands-on experience in security monitoring, threat intelligence, web development, and system automation. My background in construction technology helps me understanding structural engineering and architecture and my hands on experience in Computer science, IoT and SOD gives me a unique perspective on integrating AI, IoT, and cybersecurity into critical infrastructure and modern software solutions.
+# Hi, I'm Fidèle Nsanzumuhire
 
-### 🌱 What I'm Learning
-Cybersecurity & SOC Operations (SIEM, Threat Intelligence, Firewall Security)
+Software Engineer focused on building scalable software systems, AI-driven applications, and cloud-native solutions. I enjoy solving complex engineering problems across backend systems, distributed architectures, cybersecurity, computer vision, and intelligent automation.
 
-Python, JavaScript, C, C++ (Automation, Web Development, and Secure Coding)
+## Expertise
 
-Offensive Security & Ethical Hacking (Penetration Testing, Malware Analysis)
+* Backend Development
+* Artificial Intelligence & Machine Learning
+* Distributed Systems & Microservices
+* Cybersecurity
+* Cloud Computing & DevOps
+* Computer Vision
+* Internet of Things (IoT)
+* GIS & Geospatial Systems
 
-Networking & System Administration (TCP/IP, Linux Security, Cloud Security)
+## Tech Stack
 
-### 🚀 My Projects
-Cybersecurity Threat Intelligence Dashboard: Built a real-time security monitoring system with SIEM tools (Splunk, Elastic Security) to analyze logs and detect threats.
+**Languages**
 
-Smart Ticket Management System: Designed and developed an automated online ticketing and vehicle tracking system, integrating GPS, fuel monitoring, and security alerts.
+Python • Go • JavaScript • TypeScript • C • C++ • SQL • Dart
 
-Firewall & IDS Implementation: Simulated Intrusion Detection & Prevention Systems (IDS/IPS) to enhance network security and mitigate cyber threats.
+**Frameworks & Technologies**
 
-Secure Web Application: Built a React-based secure web app with user authentication and role-based access control (RBAC).
+Django • FastAPI • React • Next.js • Flutter • Node.js • Docker • Kubernetes • Redis • PostgreSQL • Kafka • Celery
 
-### 🛠️ My Toolbox
-Languages: Python, JavaScript (React), C, C++, SQL
+**Cloud & DevOps**
 
-Security Tools: Splunk, Elastic Security, Wireshark, Metasploit, Nmap, VirusTotal
+AWS • Cloudflare • Linux • Git • CI/CD
 
-Cloud & DevOps: AWS Security, Docker, Git, Linux, VS Code
+**AI & Data**
 
-Networking & Security: TCP/IP, Firewalls, Endpoint Hardening, SIEM, Active Directory
+PyTorch • OpenCV • TensorFlow • Large Language Models (LLMs) • Computer Vision • Data Engineering
 
-### 🎯 My Goals
-Short-term: Strengthen SOC security skills and gain real-world experience in incident response and SIEM monitoring.
+## Current Focus
 
-Long-term: Build AI-driven cybersecurity solutions and automate threat detection systems to improve enterprise security.
+I'm currently building intelligent software platforms that combine AI, geospatial technologies, and cloud infrastructure to solve real-world engineering and automation challenges.
 
-📫 How to Reach Me
-📧 Email: fidelensanze100@gmail.com
-🔗 https://www.linkedin.com/in/nsanzumuhire-fid%C3%A8le-b23aa9325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## Connect
+
+* Email: **[fidelensanze100@gmail.com](mailto:fidelensanze100@gmail.com)**
+* LinkedIn: **https://www.linkedin.com/in/nsanzumuhire-fidèle**
